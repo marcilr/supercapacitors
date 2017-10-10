@@ -26,3 +26,9 @@ Read more at: https://phys.org/news/2017-07-simple-fabricate-micro-supercapacito
 Supercapacitor
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Supercapacitor
+
+Voltage regulated hybrid DC power source using supercapacitors as
+energy storage device
+Mohamed-Yacine Ayad, Serge Pierfederici, Stéphane Raël,. Bernard Davat
+http://www.sciencedirect.com/science/article/pii/S0196890407000076
+
