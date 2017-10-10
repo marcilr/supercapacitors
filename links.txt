@@ -1,0 +1,28 @@
+links.txt
+Created Tue Oct 10 14:11:40 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Supercapacitor related links
+
+
+Links
+=====
+BU-209: How does a Supercapacitor Work?
+The charge time of a supercapacitor is 1–10 seconds.
+http://batteryuniversity.com/learn/article/whats_the_role_of_the_supercapacitor
+
+Can Supercapacitors Surpass Batteries for Energy Storage?
+http://www.electronicdesign.com/power/can-supercapacitors-surpass-batteries-energy-storage
+
+Researchers develop simple way to fabricate micro-supercapacitors
+with high energy density
+July 3, 2017 by Lisa Zyga
+https://phys.org/news/2017-07-simple-fabricate-micro-supercapacitors-high-energy.html
+
+Read more at: https://phys.org/news/2017-07-simple-fabricate-micro-supercapacitors-high-energy.html#jCp
+
+
+Supercapacitor
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Supercapacitor
