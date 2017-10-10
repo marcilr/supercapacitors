@@ -1,0 +1,6 @@
+supercapacitors.txt
+Created Tue Oct 10 14:10:25 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Supercapacitors
